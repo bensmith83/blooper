@@ -1,0 +1,14 @@
+1. do lookup on GATT UUIDs
+    see https://github.com/ghostyguo/BleUuidExplorer/blob/master/app/src/main/java/ghostysoft/bleuuidexplorer/GattAttributes.java
+
+if Complete 16b Services
+  do lookup UUID
+  print UUID lookup & complete local name
+  x
+
+[*] Device 50:1e:2d:00:f8:f7 (public), RSSI=-72 dB
+------------------------------------------------------------------------------------------------------------
+  Flags = 06
+  Complete 16b Services = 0000fe46-0000-1000-8000-00805f9b34fb
+  Complete Local Name = Beoplay M3_28711934
+  Manufacturer = 030100
